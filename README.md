@@ -37,4 +37,4 @@ Day 001 → Day 183 → Day 365
 </p>
 
 ## Links
-- (https://www.instagram.com/flagbyte_palestine/)
+- https://www.instagram.com/flagbyte_palestine/
