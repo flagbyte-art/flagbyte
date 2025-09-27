@@ -16,7 +16,8 @@ The construction process is a hybrid of **manual design in Illustrator** and **a
 ### Illustrator workflow
 - A square artboard (1080×1080 px) optimized for Instagram.  
 - A uniform pixel grid covering the entire artboard.  
-- Each square corresponds to one day in the project.  
+- Each square corresponds to one day in the project.
+- Randomizing the order of pixels disappearing trough the script in .jsx inside Illustrator.
 - The official colors of the Palestinian flag are fixed from day one.  
 
 ### Color palette (sRGB)
@@ -45,7 +46,14 @@ The project relies on **Meta Business Suite** to schedule one post per day, cove
 This choice is not only practical but also conceptual:  
 - It ensures **consistency and discipline**, with no gaps in the sequence.  
 - It underlines that the *act of posting itself becomes automated*, reflecting how social media platforms structure time through feeds, algorithms, and scheduling.  
-- The human gesture (building the grid, defining the rules) is combined with a machine-driven rhythm (daily posting without interruption).  
+- The human gesture (building the grid, defining the rules) is combined with a machine-driven rhythm (daily posting without interruption).
+
+The Instagram posts will also keep the **comments section open**.  
+Conversations, reactions, and debates that emerge there are not external to the work: they **become part of the artwork itself**.  
+This layer of dialogue will be monitored but not censored, allowing the social response to intertwine with the slow construction of the flag.  
+
+In this way, the comments act as a parallel archive — unpredictable, collective, and sometimes conflicting — that mirrors how meaning is continuously negotiated in public space.
+
 
 In this way, the “tempo of art” is kept distinct from the “tempo of news”: the posts unfold predictably, indifferent to real-world urgency, emphasizing the project’s critique of media temporality.
 
