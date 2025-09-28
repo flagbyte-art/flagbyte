@@ -43,6 +43,15 @@ Day 001 → Day 183 → Day 365
 ## Links
 - https://www.instagram.com/flagbyte_palestine/
 
+## About
+This project is developed by an independent Italian videomaker.  
+It is the first experiment of this scale in my life, presented as an open net-art work.
+ Contact: [flagbyte.palestine@proton.me](mailto:flagbyte.palestine@proton.me)
+
+---
+
+<p align="center"><em>“The world is the totality of facts, not of things.”</em><br/>— Ludwig Wittgenstein, <em>Tractatus</em>, 1.1</p>
+
 
 
 
