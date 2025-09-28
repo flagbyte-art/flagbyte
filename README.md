@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="FlagByte Logo" width="200"/>
+  <img src="flagbyte_logo.png" alt="FlagByte Logo" width="200"/>
 </p>
 
 # FlagByte — Pixel Flags as Net Art
