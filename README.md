@@ -1,4 +1,6 @@
-![Logo](logo.png)
+<p align="center">
+  <img src="logo.png" alt="FlagByte Logo" width="200"/>
+</p>
 
 # FlagByte — Pixel Flags as Net Art
 
