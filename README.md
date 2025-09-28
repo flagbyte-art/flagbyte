@@ -4,7 +4,8 @@
 
 # FlagByte — Pixel Flags as Net Art
 
-One pixel per day for 365 days. The Palestinian flag in slow construction.
+One pixel per day for 365 days. The Palestinian flag in slow construction. For a deeper explanation of the artistic vision behind this project, see the [Concept](docs/concept.md).
+
 
 ## Rules
 - **1 Instagram post per day (365 total), scheduled via Meta Business Suite** (official Meta tool).
