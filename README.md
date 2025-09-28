@@ -1,3 +1,5 @@
+![Logo](logo.png)
+
 # FlagByte — Pixel Flags as Net Art
 
 One pixel per day for 365 days. The Palestinian flag in slow construction.
