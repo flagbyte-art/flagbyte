@@ -2,7 +2,7 @@
   <img src="flagbyte_logo.png" alt="FlagByte Logo" width="200"/>
 </p>
 
-# FlagByte — Pixel Flags as Net Art
+# FlagByte — Pixel Flag as Net Art
 
 One pixel per day for 365 days. The Palestinian flag in slow construction. You can check all the progress of this project on: https://www.instagram.com/flagbyte_palestine/
 
