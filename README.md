@@ -4,7 +4,7 @@
 
 # FlagByte — Pixel Flags as Net Art
 
-One pixel per day for 365 days. The Palestinian flag in slow construction. 
+One pixel per day for 365 days. The Palestinian flag in slow construction. You cn check all the progress of this project on: https://www.instagram.com/flagbyte_palestine/
 
 ## Concept
 
@@ -116,9 +116,6 @@ Day 001 → Day 183 → Day 365
   <img src="docs/previews/day_183.png" width="220" alt="Day 183 preview">
   <img src="docs/previews/day_365.png" width="220" alt="Day 365 preview">
 </p>
-
-## Links
-- https://www.instagram.com/flagbyte_palestine/
 
 ## About
 
