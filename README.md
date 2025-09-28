@@ -44,7 +44,16 @@ Day 001 → Day 183 → Day 365
 - https://www.instagram.com/flagbyte_palestine/
 
 ## About
-I am Alberto, an independent Italian videomaker.  
+I am Alberto, an independent Italian videomaker on his mid '30s.
+I have no academic background in net art: it is entirely the result of my persistence and of an inexhaustible, restless curiosity about everything that escapes certainty and definition of reality.
+It is the first experiment of this scale in my life, presented as an open net-art work.
+
+If you want to talk about the project or simply say "hi" [flagbyte.palestine@proton.me](mailto:flagbyte.palestine@proton.me)
+
+---
+
+<p align="center"><em>“The world is the totality of facts, not of things.”</em><br/>— Ludwig Wittgenstein, <em>Tractatus</em>, 1.1</p>
+
 It is the first experiment of this scale in my life, presented as an open net-art work.
 If you say something about the project or simply say "hi". [flagbyte.palestine@proton.me](mailto:flagbyte.palestine@proton.me)
 
