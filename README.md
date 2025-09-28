@@ -44,12 +44,12 @@ Day 001 → Day 183 → Day 365
 - https://www.instagram.com/flagbyte_palestine/
 
 ## About
-I am Alberto, an independent Italian videomaker in my mid-30s.
-This project is entirely the result of my persistence and of an inexhaustible, restless curiosity about everything that escapes certainty and definition of reality.
-It is the first experiment of this scale in my life, presented as an open net-art work.
----
 
-If you say something about the project or simply say "hi". [flagbyte.palestine@proton.me](mailto:flagbyte.palestine@proton.me)
+I am Alberto, an independent Italian videomaker in my mid-30s.  
+This project is entirely the result of my persistence and of an inexhaustible, restless curiosity about everything that escapes certainty and the definition of reality.  
+It is the first experiment of this scale in my life, presented as an open net-art work.  
+
+If you want to say something about the project or simply say "hi": [flagbyte.palestine@proton.me](mailto:flagbyte.palestine@proton.me)
 
 ---
 
