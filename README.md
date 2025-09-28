@@ -128,9 +128,6 @@ It is the first experiment of this scale in my life, presented as an open net-ar
 
 If you want to say something about the project or simply say "hi": [flagbyte.palestine@proton.me](mailto:flagbyte.palestine@proton.me)
 
----
-
-<p align="center"><em>“The world is the totality of facts, not of things.”</em><br/>— Ludwig Wittgenstein, <em>Tractatus</em>, 1.1</p>
 
 
 
