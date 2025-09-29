@@ -80,15 +80,14 @@ The flag becomes not a symbol of urgency but a study in persistence — an image
 ## Archive
 - Preview images live in this repository.  
 - Full source and exports will be archived separately.  
-- A public mini-site will mirror progress. 
+- A public mini-site will mirror progress. (I will see how the things will go...)
 
 
 ## Rules
 - **1 Instagram post per day (365 total), scheduled via Meta Business Suite** (official Meta tool).
 - Fixed grid & palette defined at the start.
-- Consistent output size (1080×1080 or 1080×1350) and sRGB color profile.
 - Minimal captions; optional alt text for accessibility.
-- No commentary on current events — this is an image–time experiment.
+- No commentary on current events.
 
 ## Repositories
 - `flagbyte` — docs & logs
