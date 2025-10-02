@@ -22,7 +22,7 @@ FlagByte is also an experiment on how the **media system bends our perception of
 The construction process is a hybrid of **manual design in Illustrator** and **automation**.
 
 ### Illustrator workflow
-- A square artboard (1080×1080 px) optimized for Instagram.  
+- A square artboard (1080×566 px) optimized for Instagram.  
 - A uniform pixel grid covering the entire artboard.  
 - Each square corresponds to one day in the project.  
 - The official colors of the Palestinian flag are fixed from day one.  
@@ -64,7 +64,7 @@ In this sense, the comments form a **parallel archive — unpredictable, collect
 
 ## Constraints
 - Fixed grid and color palette defined on day 1.  
-- Output format: 1080×1080 or 1080×1350, sRGB.  
+- Output format: 1080×566, sRGB.  
 - Minimal captions; optional alt text for accessibility.  
 - Posting is automated via Meta Business Suite (1 post/day).  
 - Comments remain open and are considered part of the artwork.  
@@ -85,7 +85,6 @@ The flag becomes not a symbol of urgency but a study in persistence — an image
 
 ## Rules
 - **1 Instagram post per day (365 total), scheduled via Meta Business Suite** (official Meta tool).
-- Fixed grid & palette defined at the start.
 - Minimal captions; optional alt text for accessibility.
 - No commentary on current events.
 
@@ -122,7 +121,7 @@ I am Alberto, an independent Italian videomaker in my mid-30s.
 This project is entirely the result of my persistence and of an inexhaustible, restless curiosity about everything that escapes certainty and the definition of reality.  
 It is the first experiment of this scale in my life.
 
-If you want to say something about the project or simply say "hi": [flagbyte.palestine@proton.me](mailto:flagbyte.palestine@proton.me)
+If you want to say something about the project or simply say "hi": [flagbyte.palestine@proton.me](mailto:flagbyte.palestine@proton.me) or DM in the Instgram page of the project
 
 
 
