@@ -4,7 +4,8 @@ Track of daily posts, filenames, and notes.
 
 | Day | File        | Notes        |
 |-----|-------------|--------------|
-| 001 | day_001.png | |actual date on 1 oct 2025
+| 001 | day_001.png | |actual date 
+on 1 oct 2025
 | 002 | day_002.png | |
 | 003 | day_003.png | |
 | 004 | day_004.png | |
