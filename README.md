@@ -58,7 +58,7 @@ This choice is not only practical but also conceptual:
 The Instagram posts will also keep the **comments section open**.  
 Conversations, reactions, and debates that emerge there are not external to the work: they **become part of the artwork itself**.  
 This layer of dialogue will be monitored but not censored, allowing the social response to intertwine with the slow construction of the flag.  
-In this sense, the comments form a **parallel archive — unpredictable, collective, and sometimes conflicting — that mirrors how meaning is continuously negotiated in public space**.
+In this sense, the comments form a **parallel archive - unpredictable, collective, and sometimes conflicting - that mirrors how meaning is continuously negotiated in public space**.
 
 ---
 
@@ -73,7 +73,7 @@ In this sense, the comments form a **parallel archive — unpredictable, collect
 
 ## Why
 The work investigates how meaning is constructed not in the instant but through repetition and delay.  
-The flag becomes not a symbol of urgency but a study in persistence — an image built pixel by pixel, day after day, in tension with the rhythm of media time.
+The flag becomes not a symbol of urgency but a study in persistence - an image built pixel by pixel, day after day, in tension with the rhythm of media time.
 
 ---
 
@@ -90,7 +90,7 @@ The flag becomes not a symbol of urgency but a study in persistence — an image
 
 ## Repositories
 - `flagbyte` — docs & logs
-- `flagbyte-instagram-assets` — source files & final exports
+- `flagbyte-instagram-assets` - source files & final exports
 - `flagbyte-automation` — scripts
 
 ## Structure
