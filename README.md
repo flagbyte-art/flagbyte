@@ -96,7 +96,7 @@ The flag becomes not a symbol of urgency but a study in persistence - an image b
 ## Structure
 - `docs/` - concept, grid specs, palette  
 - `logs/` - posting log  
-- `references/` - artists, tools
+- `references/` - tools, etc.
 
 ## Posting workflow
 1. Prepare batch of exports → `/export/day_XXX.png`.  
