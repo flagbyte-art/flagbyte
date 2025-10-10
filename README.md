@@ -89,14 +89,14 @@ The flag becomes not a symbol of urgency but a study in persistence - an image b
 - No commentary on current events.
 
 ## Repositories
-- `flagbyte` — docs & logs
+- `flagbyte` - docs & logs
 - `flagbyte-instagram-assets` - source files & final exports
-- `flagbyte-automation` — scripts
+- `flagbyte-automation` - scripts
 
 ## Structure
-- `docs/` — concept, grid specs, palette  
-- `logs/` — posting log  
-- `references/` — artists, tools
+- `docs/` - concept, grid specs, palette  
+- `logs/` - posting log  
+- `references/` - artists, tools
 
 ## Posting workflow
 1. Prepare batch of exports → `/export/day_XXX.png`.  
