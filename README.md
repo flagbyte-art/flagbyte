@@ -2,7 +2,7 @@
   <img src="flagbyte_logo.png" alt="FlagByte Logo" width="200"/>
 </p>
 
-# FlagByte — Pixel Flag as Net Art
+# FlagByte - Pixel Flag as Net Art
 
 One pixel per day for 365 days. The Palestinian flag in slow construction. You can check all the progress of this project on: https://www.instagram.com/flagbyte_palestine/
 
@@ -11,7 +11,7 @@ One pixel per day for 365 days. The Palestinian flag in slow construction. You c
 FlagByte is a long-form net art experiment: **one pixel per day for 365 days**, slowly constructing the Palestinian flag.
 
 At its core, the project questions the relationship between **image, time, and meaning**.  
-The time of art is not the time of reality. Reality is shaped by urgency, acceleration, and the demand for immediacy, while art insists on its own temporality — slower, deliberate, resistant to pressure.  
+The time of art is not the time of reality. Reality is shaped by urgency, acceleration, and the demand for immediacy, while art insists on its own temporality - slower, deliberate, resistant to pressure.  
 
 FlagByte is also an experiment on how the **media system bends our perception of urgency**. News cycles dictate what feels immediate and what is forgotten; events acquire importance or lose it based on how their temporality is framed. By stretching the creation of a single image across an entire year, the project mirrors and critiques this dynamic: the flag emerges not as breaking news, but as a patient accumulation of gestures.
 
