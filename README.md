@@ -20,7 +20,7 @@ FlagByte is also an experiment on how the media system bends our perception of u
 
 ## Method
 
-The construction process is a hybrid of manual design in Illustrator** and automation.
+The construction process is a hybrid of manual design in Illustrator and automation.
 
 ### Illustrator workflow
 - A square artboard (1080×566 px) optimized for Instagram.  
@@ -125,9 +125,3 @@ It is the first experiment of this scale in my life.
 If you want to say something about the project or simply say "hi": [flagbyte.palestine@proton.me](mailto:flagbyte.palestine@proton.me) or DM in the Instgram page of the project
 
 
-
-
-
-
-
-© 2025 FlagByte Project
