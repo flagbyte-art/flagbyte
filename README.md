@@ -118,7 +118,7 @@ Day 001 → Day 183 → Day 365
 
 ## About
 
-I am Alberto, an independent Italian videomaker born in 1989.
+I am Alberto, I work in Italy as a multimedia producer. I was born in 1989.
 This project is entirely the result of my persistence and of an inexhaustible, restless curiosity about everything that escapes certainty and the definition of reality.  
 It is the first experiment of this scale in my life.
 
