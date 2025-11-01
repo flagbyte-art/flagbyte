@@ -51,11 +51,6 @@ This process makes the construction both systematic and autonomous:
 Once the 365 images are generated, they are not uploaded manually.  
 The project relies on Meta Business Suite to schedule one post per day, covering an entire year.  
 
-This choice is not only practical but also conceptual:  
-- It ensures consistency and discipline, with no gaps in the sequence.  
-- It underlines that the act of posting itself becomes automated, reflecting how social media platforms structure time through feeds, algorithms, and scheduling.  
-- The human gesture (building the grid, defining the rules) is combined with a machine-driven rhythm (daily posting without interruption).  
-
 The Instagram posts will also keep the comments section open.  
 Conversations, reactions, and debates that emerge there are not external to the work: they become part of the artwork itself.  
 This layer of dialogue will be monitored but not censored, allowing the social response to intertwine with the slow construction of the flag.  
@@ -88,6 +83,7 @@ The flag becomes not a symbol of urgency but a study in persistence - an image b
 - 1 Instagram post per day (365 total), scheduled via Meta Business Suite (official Meta tool).
 - Minimal captions; optional alt text for accessibility.
 - No commentary on current events.
+- Comment section will be remained open during and after the project.
 
 ## Repositories
 - `flagbyte` - docs & logs
